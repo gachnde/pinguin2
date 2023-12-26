@@ -1,0 +1,26 @@
+{
+  "name": "Belle May",
+  "age": 18,
+  "address": {
+    "street": "Ujdib Turnpike",
+    "city": "Kolazfaj",
+    "state": "CA",
+    "zip": "92666"
+  },
+  "contact": {
+    "phone": "(410) 399-7312",
+    "servicePhone": "800211593"
+  },
+  "birthday": "1982-06-10T23:39:56.081Z",
+  "ip": "97.138.87.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Momlul figa bokbif fuv pousuzuh viteddar himzunik cevve vemkafu hi rudda noif huv ov gu zogatu tubgij cowacono. Wonub ozdatde ud univu wezmukme ruwahok edo dotar gaur efesacepe er lukerduv. Bozwe gizve woforuce zifsur hoeg gakjizsib tevrovil leadug fujace bes paw pa ufe no guwofu kosiza. Betef morfa sappu ijtuac ziuciaw ni idaole binpim ecnupam ikpomonu nunmokci ise mel uchanuz jop.",
+    "bio": "Mivef dadohoka uwmad kawzu ewi efdojlog amfup lo fehbab okavaiwu um zaul me ehi tol duuh uzaroface. Poh no olewa nizrak kegihfi te hu not tuwaku si caop wavgeon habuneg zabju of gowuwuk ubu ijilorkob. Duoje wolpigaga ka epmilep nagarujew witimha nolkap kewvul girnofmi bej hu zatsipri vetpuuse. Jev fizda nap emce gog hazbil pah awasiv eborser po eg na ce inratur nufke vo ufbecne. Hucibofu daj oputim ivco hahtoti nettus hobunkih ow gacviwap taelap leb pef mowossug lijuhre epu cipmajpi sispad buh."
+  },
+  "apiKey": "5dd843da7b6b7fcafc104714a076dd04da7952b2b22cbcc073e39cb49de9c741",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
