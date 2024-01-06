@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Thomas",
+  "age": 32,
+  "address": {
+    "street": "Ogudos Glen",
+    "city": "Wadebob",
+    "state": "NJ",
+    "zip": "59392"
+  },
+  "contact": {
+    "phone": "(233) 987-4473",
+    "servicePhone": "800474599"
+  },
+  "birthday": "1969-10-29T16:33:05.033Z",
+  "ip": "26.143.78.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Um gunod zor zajep edu loj pognedug map cimdubigi zup um bembasij najdawo daipino ilaodu adurehipi. Migpos firedah uc luruheg ivcipu macuto mawho mulamo curivisoh heffignob fehtitza omeucori bahal gafe eb ga la. Huh vem pugcoz coppi uw fe dudas ec manif mewwij co izlec bofo usle mo. Vo cu ojlulak olzu cud moruvdig hig zokuba inofiute uwfenir uwi emke vezlimgud uzu foiwtup nu. Ipuiwo jihi et oznol hum jinsabu miuzono watbu zikem obtalo suogefo eta bativfem gu vifaupu lufda eco.",
+    "bio": "Teedizo buzumi neoglag gidilwev zucidiz iwunupi ugi ig lo ciwfunote jo medu rep wewlis uf ahvep gu. Fen iwozurec muteciw bes misjaali tumsirhu milna gor jiveni gekafezah bih asgob pa pasisaba. Ubehozve sog noisis cihu toket kok daj zupwubroz nowzesol wokba getoaba odoza acrigki cuneci getuci. Borgod aba anjos vudogi baemaab kurcitre cumnet viep kev sengego gercif wukkuh up recsa vi oz wewfo."
+  },
+  "apiKey": "40c196ab75129ed742f5ed488b7c4c3946fe1d5954aad83da89675551388b3c0",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
