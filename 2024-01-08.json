@@ -1,0 +1,26 @@
+{
+  "name": "Philip Colon",
+  "age": 61,
+  "address": {
+    "street": "Ziuc Boulevard",
+    "city": "Irpoti",
+    "state": "ME",
+    "zip": "69272"
+  },
+  "contact": {
+    "phone": "(959) 662-9035",
+    "servicePhone": "800617893"
+  },
+  "birthday": "1960-06-10T12:59:14.996Z",
+  "ip": "172.22.108.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Ob mi sasel wimsidog bun nomojkiv gogkier li wim sa ejabos oke ozujov liclij hivmokak idiwogi. Eho vunmir meri wazsulo ifelo vo zufwo wasbal juvmin efisuniso cewa uziiwumis jo mikujov. Renbet fozta ilikaw kehnapoh bo jusvaj damaij omdu ku hensa hidsun miroig cenbipa ev zivatauv sojgidef po. Rohew hahojas cohzaaci mifuz oca dogcacuw cohsevane pooweku lizwo foccuzcir ta co mi ge rur faifazef pozaza giuf.",
+    "bio": "Wuduv vemowa sec dusbeopo uka ci ile sutal pew ok tupu seskoswis wirwanma. Alorife oravugu cal foceito so ab gakurekic bese pelhakur hir keffajla zelivu jabfumo nud ojecubroj da ur. Enu efhat jujfov sutdegwuz aj ote ko waknohfic rovjah wi sugorab oheorifek nihivko po bi epuzen vevonuoz wejvinec."
+  },
+  "apiKey": "821c644b704efbef5862ec112d0c22de663e998e36cd2558bbf0fa3984dc5949",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
