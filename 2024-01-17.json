@@ -1,0 +1,26 @@
+{
+  "name": "Max Jones",
+  "age": 55,
+  "address": {
+    "street": "Woeje Loop",
+    "city": "Rinuhop",
+    "state": "CA",
+    "zip": "91955"
+  },
+  "contact": {
+    "phone": "(678) 792-2223",
+    "servicePhone": "800548372"
+  },
+  "birthday": "1992-03-10T18:12:21.142Z",
+  "ip": "208.201.6.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Luv conpiv uri koohlo gec de uvsuvgam lillaf kifu tagsim amu tat ka tojowah pu pughin noh lalu. Ecamupiv cid bif co cun wema nejsik jemcap re neksugzir macobidu jigjo corebe cej ispe. Aferuwu jasibnut hok ho fomaki wiromla rugizuvep fele ukalih co amwosuh uf atmolid. Bimudil atpuh dofjizuwi bujal tigzic kief paprolu kozomne vow luzo hadi kiwup ifzef he om aguviz udafigop.",
+    "bio": "Pe mi di olke jeh imaraw gagik nadosdo perre vewnop loja jaof gubabpul zodaf. Gadvot munmiboz zunow nice cepiwu cura vuwum gazrozfin azebupku bomwil kem oj cutakju. Jocpoc ce vovu eclujti cete beb woje lugoco vafvo alemuzi viv toedidi cul giwhof hilo pu."
+  },
+  "apiKey": "e64eab637d0937c4aea11d4303b772d24357bc9457d67c5bfefa47b4d4aa5c04",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
