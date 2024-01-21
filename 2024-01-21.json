@@ -1,0 +1,26 @@
+{
+  "name": "Lela Allen",
+  "age": 58,
+  "address": {
+    "street": "Edvez Plaza",
+    "city": "Kupdukce",
+    "state": "IN",
+    "zip": "72113"
+  },
+  "contact": {
+    "phone": "(348) 378-7037",
+    "servicePhone": "800652495"
+  },
+  "birthday": "2003-03-20T11:55:59.775Z",
+  "ip": "233.32.22.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Gomfamvo up macizuhaj uji wezegoj gojtef veci helku loj rac maheb su lucfiedu ahufu gavdut. Uba tizuc temo zegdom bolotcat tompo vaz sudkufvor filuj uma pipluvaj vilho jepe jisu pu kigipo. Akebu ekoz rav gezi wetuj pi uraese idgarbaz odowza muzegpaw red pu.",
+    "bio": "Oma okuivebev canabco teabdu bocune lo funana citi laef tauci labvibu iju jacul ziz dihban vi bafhu. Na pe owwi jednehhaf deb asupam iwiladul esivu ucsikmom topisi sisouv kignef wuglos gat dihza iz ot. Nu bonviga hazi hivtogma pi pebgehol ulicinkas go bafi hos ive sa kep guh kosocaf polvoj. Sobrim nibtiz tuzsek lidfupi cuw oreda izunuih ocabutvur ulu wub fiw ra tiguji tawpa. Kojud li okobij pab ge avaka dododec bafetepa odolew mize wucied wauzu. Boko to de aglevu idocil ibha be hufema ocbito miepu azibu tiotebu homugdu hoem guntuki loggoon uneve dafmam."
+  },
+  "apiKey": "9140aea5373ef2b200ef5e2547b512d8dcdc81169255aa991d8e09cb5c7bb10d",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
