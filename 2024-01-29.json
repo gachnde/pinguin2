@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Garrett",
+  "age": 27,
+  "address": {
+    "street": "Alohad Point",
+    "city": "Oblomve",
+    "state": "KY",
+    "zip": "51003"
+  },
+  "contact": {
+    "phone": "(271) 229-8674",
+    "servicePhone": "800317872"
+  },
+  "birthday": "1991-06-29T07:54:45.741Z",
+  "ip": "25.95.241.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Fafvez sivpo buseve usa ra bummagfuh gaz dawot nacsauwi hu tusoimu lomgew bunizuf riwoner adisause luftujo keak tafwe. Ma civja meb fisucges bogig daubi mow ebka zidog hozin jitlorhak ceg ci. Pon avdidri fake jefnic orgu pir ticizka vak bilog vifabeh set mu ebosogi mezo. Pok je raho fetovmob vu abu fiftiguh ho fecabejo ma nagba ulaje bu husegra jitidneb rilen.",
+    "bio": "Fo tun pep teir ho ruwopib zu ba ju lo kuopiv visupo uwepajik. Mi ifruhmo marwuno ico zim wil ewimi oluke nekovug luz si ipeoza ravofo tuvuoko. Koj totu ca usejupfu otce mi bew aruzagji bo tagfowsa rugib helewa kigejtup ruuh iwo kojubhof."
+  },
+  "apiKey": "71a4135903f2f8279eaf5077f17d9bf6cb1fc5e8756f5acde699536b176306a9",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
