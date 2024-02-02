@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Moody",
+  "age": 25,
+  "address": {
+    "street": "Igget Grove",
+    "city": "Irlernop",
+    "state": "ME",
+    "zip": "89052"
+  },
+  "contact": {
+    "phone": "(943) 830-5625",
+    "servicePhone": "800739477"
+  },
+  "birthday": "1998-04-24T19:18:38.324Z",
+  "ip": "43.19.71.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Goomo kezpuzsu fazlaj vah ruc ku ja hiuk micahro rizvihu cu gen. Ip biphelgi fi sebahe luk welrekufe lal zalwa obze ippagtu cijriwib col kisu jimzehe. Mus dipah waov litre de mavzog reszasej soow mibarzo bolu lug re buzegiv sotem sahhe lecal afedotsi gofberde. Ine pev otiszij vo efeju ugto sohrircuc leul wu vazmahbih sih uj tad.",
+    "bio": "Hu tawaok gigoh vuza oke gi movcet wop ri ce mohtaja zegutme tehit ho. Lupe dazubon ibalolvor conu loumki hasmu to jimeh izupu werdurnu om eshu tezuwef ehmawci nig hikevol. Ilgiri bagivi aliku ogeso nuki weglo cor fihcu al vopuk deazuabe rohhackis vevev wobpi dimeh maca ziv. Bitnic muf eg teco kor eli cavbedvi nimi nupud taup ru ki nesit totiv cadit ekite."
+  },
+  "apiKey": "9cdbd422d6220f8da2d7b21ab23a32b0b365e00121ef4ba1dd1ff9d5d0040c9a",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
