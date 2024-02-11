@@ -1,0 +1,26 @@
+{
+  "name": "Lily Fields",
+  "age": 58,
+  "address": {
+    "street": "Jelve Circle",
+    "city": "Zecungu",
+    "state": "NY",
+    "zip": "07998"
+  },
+  "contact": {
+    "phone": "(735) 548-5123",
+    "servicePhone": "800692592"
+  },
+  "birthday": "1980-12-28T22:51:01.190Z",
+  "ip": "224.9.27.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Hubda kimoz dov vukdad fozajon netlok ifev levfes du rekodwa viwcudoni seduje joho. Kad gotoj bu ga dejdesja ugoze sokzi ga falta dobpuen ijhut oforobje eh wuv panbo. Zoflov nufonaz mad fuv volece sepehune lennegru tegcij emidacuk on ra naltedaw ne torfasi. Fam bu nohfozik sauzudi viglem dittejit ikena co uvajutu zud li bum few runda masetsos soktehfat.",
+    "bio": "Okaeki kor los nivezan liswud puwvewjof puv gugu wegve ahro famifim ul kige samwivi pu. Enoake lijpihi umtu aptag lonfeb al so fugian ropako saluno bahjuwe go wiju wuanitut vuhej zi je nugirco. Eli habojod uni ri ecaos murut puw otepsid viujzir tujcad wersin pa ho artinoj ge perotrib te kapfedju. Dog wo meeh sakover pi tac gireb mud defod comu liaki dub givade. Siwiher ci bahhob gimfiwo atuih mohpe ta tu uhiawzih noclelbe hesis vavibgir."
+  },
+  "apiKey": "83cfb6574c733d6519105d3dab5042a7d412061b46c73898faaadac2e07521dc",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
