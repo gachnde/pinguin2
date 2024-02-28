@@ -1,0 +1,26 @@
+{
+  "name": "Brett Colon",
+  "age": 29,
+  "address": {
+    "street": "Sosoj Avenue",
+    "city": "Degmurji",
+    "state": "WI",
+    "zip": "91152"
+  },
+  "contact": {
+    "phone": "(545) 242-1087",
+    "servicePhone": "800448926"
+  },
+  "birthday": "1988-06-05T03:14:01.523Z",
+  "ip": "252.78.63.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Fizacu ojilevac fatenti petsosod wo alawuic uzlerze kakes ho fi mij sofuksil. Houv dawludha femundiz kahvucje paik kiwdikli si ela punuvvo holoh rejag sidsa wiwvi todgew wis utoj wedadmav. Caj hefiig igu isicomwu hurig ja canu luf ije vasunevo buhudon vevucel pubhuthi.",
+    "bio": "Surasso humpa iwfotga bajver womuvako gilwij lobuwo tev roklol fofipej wih nap nojo runhis deapo ruten tacribsar lit. Ob kuca zongan tika da dan kig monoz wogujili pav rog wud nogikepar cu so feuzo zamorgiw. Soec nu fovu zopid jazjug nirvuil kok mi zouk ate pel wegece."
+  },
+  "apiKey": "35581d647693775e23104a73807e0ee1e866dab17c5506da993d7ae4d67bc1c3",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
