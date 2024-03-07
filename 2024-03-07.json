@@ -1,0 +1,26 @@
+{
+  "name": "Danny Berry",
+  "age": 32,
+  "address": {
+    "street": "Gidu Center",
+    "city": "Feegaumi",
+    "state": "NH",
+    "zip": "25183"
+  },
+  "contact": {
+    "phone": "(345) 951-4854",
+    "servicePhone": "800972787"
+  },
+  "birthday": "1984-03-05T07:20:35.558Z",
+  "ip": "228.192.154.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Vukafces favpe foh rel rif izo zumso wegi piw zogakeiki veprofi zal jufle tu dialo fewfo nujeva. Bejvuid buc bevilpur nirgalku gaudafa ir hoturotu bowraeh ovo kocuh favzonu giwide daherod. Zekbozgev tulvi ze wo nivsaz dotata voohiife hafiimi ninojfep vaale nawme sajade datwaomo juhtocun rohetbu tiko wejko gudzal. Idupunse lenaki seut olsa rup jufesa jig huz louna ki loranu eg kad bogu sop dasage so ijikovu. Sizze uf urholnoh fit bophatrut zu fabmari tol kagishug ucburfav culagiw bi wapvap efbuh usufte lar wigune neherad. Can becdasuc wi asuviuk vezaz dug wiwru ibuvohug codug tab peofu gag.",
+    "bio": "Pod eb pume hilunvi ho lonunamig lu owibu urbe nivwuchag aro co. Hil kupge zor wo eme osi bi iki wozuvoh cotadiru goje wevekvef rupar jabwij. Wazabava hisupe kajolwi otu do vemah taihado na esabopgu bur marasig vihmew eji kupir evesanec. Awlekfa ubu jij gabon use povbip kag feguni ucuzeno cuf dobiuwo tada."
+  },
+  "apiKey": "821307f0ae55f7bc2d4164e5e55561bead1020405350ccb49d07a92e295b2d56",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
